@@ -10,7 +10,7 @@ public class AverageMarks {
         int a=sc.nextInt();
 
         int marks[] = new int[a];
-        System.out.println("ENTER THE MARKS NOW");
+        System.out.println("enter THE MARKS NOW");
 
         for(int i=0; i<a; i++){
             marks[i] = sc.nextInt();
